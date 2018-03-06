@@ -1,0 +1,16 @@
+.overlay {
+	padding: 15px;
+}
+.fa-icons a {
+	padding-right: 20px;
+}
+.overlay {
+	opacity: 0;
+}
+.overlay:hover {
+	opacity: 1;
+	background-color: rgba(0,0,0,0.7) !important;
+}
+.activity li:first-child {
+	border-top: 0px;
+}
