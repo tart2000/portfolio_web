@@ -17,3 +17,6 @@
 .activity li:first-child {
 	border-top: 0px;
 }
+.activity {
+	font-size: 20px;
+}
