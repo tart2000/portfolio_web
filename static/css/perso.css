@@ -21,8 +21,6 @@
 	font-size: 20px;
 }
 
-
-
 /* Corriger le problème du background et shadow qui dépasse des coins arrondis */
 .flexblock.gallery li {
 	border-radius: 8px;
