@@ -20,3 +20,16 @@
 .activity {
 	font-size: 20px;
 }
+
+
+
+/* Corriger le problème du background et shadow qui dépasse des coins arrondis */
+.flexblock.gallery li {
+	border-radius: 8px;
+	overflow: hidden;
+	transition: border-radius 0.3s ease;
+}
+
+.flexblock.gallery li:hover {
+	border-radius: 16px;
+}
